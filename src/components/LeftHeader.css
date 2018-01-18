@@ -1,0 +1,12 @@
+.Left-Header{
+    height: 15%;
+    padding-left: 30px;
+    color: white;
+}
+
+.centered {
+    position: relative;
+    top: 50%;
+    transform: translate(0%, -50%);
+    margin: 0 auto;
+}

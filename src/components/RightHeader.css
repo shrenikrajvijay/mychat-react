@@ -1,0 +1,13 @@
+.Right-Header{
+    height: 15%;
+    background-color:white;
+
+}
+
+.centered {
+    position: relative;
+    top: 50%;
+    transform: translate(0%, -50%);
+    margin: 0 auto;
+    text-align: center;
+}
